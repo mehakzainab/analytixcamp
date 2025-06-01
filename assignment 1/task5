@@ -1,0 +1,6 @@
+#q5
+student=["ALICE","BOB","CHARLIE","DAVID"]
+grade=[86,90,70,50]
+for i in  range(len(student)):
+    
+     print(student[i],":",grade[i])

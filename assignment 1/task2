@@ -1,0 +1,4 @@
+#q2
+fruit={"apple","grapes","banana"}
+for i in fruit :
+   print(i,len(i))
